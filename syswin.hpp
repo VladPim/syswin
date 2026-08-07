@@ -1,6 +1,6 @@
 // syswin.hpp
 // Version: 1.1 Stable
-// Repository: [https://github.com/VladPim/syswin]
+// Repository: [https://github.com/atomizr/syswin]
 // License: MIT
 //
 // A header-only library to retrieve system information on Windows.
